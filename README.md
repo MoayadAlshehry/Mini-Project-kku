@@ -1,0 +1,1 @@
+An enhanced prototype for redesigning the user interface of "Akademia", the Academic Services Portal of King Khalid University. The project focuses on improving user experience, streamlining navigation, and making academic services more accessible.
